@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Profil Instagram</string>
+    <string name="profile_nama">Hello, Saya Sri Rahayu Ningsih</string>
+    <string name="profile_posts_count">858</string>
+    <string name="profile_posts">Posts</string>
+    <string name="profile_textView10">512k</string>
+    <string name="profile_followers">Followers</string>
+    <string name="profile_textView13">18</string>
+    <string name="profile_following">Following</string>
+    <string name="profile_message">Message</string>
+</resources>
